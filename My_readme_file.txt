@@ -1,4 +1,4 @@
-# Task Manager – 3-Tier Application
+## Task Manager – 3-Tier Application
 
 A simple **3-Tier Task Manager Application** deployed on AWS EC2, with a frontend, backend API, and database. This project demonstrates application deployment and DevOps practices using Git, GitHub, Ubuntu, Node.js, Angular, MongoDB, Docker, Docker Compose, and Jenkins.
 
